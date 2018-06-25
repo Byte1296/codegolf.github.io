@@ -3,8 +3,8 @@ projects = [
   /****************** Template ******************
   
   {
-    name: "My project name",
-    date: "YYYY-MM-DD",
+    name: "No name",
+    date: "1996-12-12",
     author:"@author",
     description: "My project short description",
     size: "1234 bytes / chars / lines",
